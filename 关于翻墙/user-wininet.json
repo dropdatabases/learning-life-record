@@ -2,6 +2,6 @@
   "UserSettingsRecorded": false,
   "Flags": "9",
   "ProxyServer": null,
-  "BypassList": "*.local",
-  "PacUrl": "http://127.0.0.1:1080/pac?t=20180905184845042&secret=80Ijpo13CbgWJMiy2N//AzUODwtKf62zzG6REkGSJWA="
+  "BypassList": null,
+  "PacUrl": null
 }
